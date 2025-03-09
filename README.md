@@ -15,8 +15,8 @@ Bu proje, Gradio arayüzü kullanılarak oluşturulmuş, belgeler, web siteleri 
 
 
 ### Ekran Görüntüleri
-![Uygulama Ana Ekranı](![image](https://github.com/user-attachments/assets/1cfaf7f4-7778-4ef4-bddd-a9282a24823c)
-)  
+![Uygulama Ana Ekranı]
+![Ekran görüntüsü 2025-03-09 152439](https://github.com/user-attachments/assets/7c4e0752-8def-4e02-91be-45acdbbeab18)
 
 
 ![Doküman İşleme](![image](https://github.com/user-attachments/assets/18a8ac17-b299-4634-9939-95fa0bef1c59)
