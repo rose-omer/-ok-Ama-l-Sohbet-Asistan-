@@ -17,12 +17,10 @@ Bu proje, Gradio arayüzü kullanılarak oluşturulmuş, belgeler, web siteleri 
 ### Ekran Görüntüleri
 ![Uygulama Ana Ekranı](![image](https://github.com/user-attachments/assets/1cfaf7f4-7778-4ef4-bddd-a9282a24823c)
 )  
-*Uygulamanın ana ekranı*
+
 
 ![Doküman İşleme](![image](https://github.com/user-attachments/assets/18a8ac17-b299-4634-9939-95fa0bef1c59)
 )  
-*Doküman yükleme ve işleme ekranı*
-
 ## Kurulum ve Kullanım
 
 ### Gereksinimler
