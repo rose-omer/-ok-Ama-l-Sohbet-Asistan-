@@ -11,7 +11,7 @@ Bu proje, Gradio arayüzü kullanılarak oluşturulmuş, belgeler, web siteleri 
 ## Demo
 
 ### Video Demo
-[Demo Videosu](https://youtu.be/your-demo-video-link)  
+[Video](https://github.com/user-attachments/assets/6a6fde31-5b7f-4460-abb3-150a5f270538)
 
 
 ### Ekran Görüntüleri
