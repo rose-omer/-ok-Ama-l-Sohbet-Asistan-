@@ -12,13 +12,15 @@ Bu proje, Gradio arayüzü kullanılarak oluşturulmuş, belgeler, web siteleri 
 
 ### Video Demo
 [Demo Videosu](https://youtu.be/your-demo-video-link)  
-*Not: Lütfen bu bağlantıyı kendi demo video URL'niz ile güncelleyin.*
+
 
 ### Ekran Görüntüleri
-![Uygulama Ana Ekranı](images/main_screen.png)  
+![Uygulama Ana Ekranı](![image](https://github.com/user-attachments/assets/1cfaf7f4-7778-4ef4-bddd-a9282a24823c)
+)  
 *Uygulamanın ana ekranı*
 
-![Doküman İşleme](images/document_processing.png)  
+![Doküman İşleme](![image](https://github.com/user-attachments/assets/18a8ac17-b299-4634-9939-95fa0bef1c59)
+)  
 *Doküman yükleme ve işleme ekranı*
 
 ## Kurulum ve Kullanım
